@@ -5,6 +5,7 @@ public class Java2 {
 		
 		System.out.println("Welcome Wipro");
 		System.out.println("Welcome Team");
+		System.out.println("Hello Wipro");
 
 	}
 
